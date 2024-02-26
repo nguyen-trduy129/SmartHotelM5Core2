@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "Tests",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"screen.c": "cpp",
+			"vector": "cpp"
+		}
+	}
+}

@@ -39,3 +39,8 @@ The 3 icons on the front of the screen are capacitive buttons which are programm
 **M5Core2 Arduino API**: [Click Here](https://docs.m5stack.com/en/api/core2/axp192_core2)
 
 **PinMap**: [Click Here](https://docs.m5stack.com/en/core/core2)
+
+# How to use this project:
+At the moment, every library I put it in  folder *src*. All the main program and example I put it in *src/main*, If you want to run anything just command all the others and then run it.
+## Add library in to this project:
+Go to Google find the library of Arduino in then go to GitHub site down load it -> copy it to folder src -> include it and run.
